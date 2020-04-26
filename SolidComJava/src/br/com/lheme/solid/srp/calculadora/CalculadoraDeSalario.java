@@ -1,5 +1,6 @@
 package br.com.lheme.solid.srp.calculadora;
 
+
 import br.com.lheme.solid.srp.model.Funcionario;
 
 /*

@@ -2,10 +2,9 @@ package br.com.lheme.solid.srp.regras;
 
 import br.com.lheme.solid.srp.model.Funcionario;
 
-public class DezOuVintePorcento implements RegraDeCalculo {
+public class QuinzeOuVintePorcento implements RegraDeCalculo{
 
-
-    public DezOuVintePorcento() {
+    public QuinzeOuVintePorcento() {
     }
 
     @Override
