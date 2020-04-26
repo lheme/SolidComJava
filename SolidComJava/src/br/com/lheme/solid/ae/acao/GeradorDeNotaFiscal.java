@@ -3,6 +3,10 @@ package br.com.lheme.solid.ae.acao;
 import br.com.lheme.solid.ae.model.Fatura;
 import br.com.lheme.solid.ae.model.NotaFiscal;
 
+/*
+Aqui no gerador diminuimos o acoplamento e mantesmos estável a implementação
+usando a Interface AcoesAposGerarNota
+ */
 import java.util.List;
 
 public class GeradorDeNotaFiscal {
